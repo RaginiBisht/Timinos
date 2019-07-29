@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="validating home page">
+    <classes>
+      <class name="cases.HomePage"/>
+     </classes>
+   </test>
+   <test name="validating login page">
+   	<classes>
+      <class name="cases.LoginPage"/>
+    </classes>
+   </test>
+   <test name="validating AdminEmployee">
+   	<classes>  
+      <class name="cases.AdminEmployee"/>
+    </classes>
+   </test>
+   <test name="validating Employee list">
+    <classes> 
+      <class name="cases.Employee_List"/>
+    </classes>
+   </test>
+   <test name="validating add department">
+   	<classes> 
+      <class name="cases.Department_add"/>
+    </classes>
+   </test>
+   <test name = "validating view department">
+   	<classes>  
+      <class name="cases.Department_view"/>
+    </classes>
+    </test>
+    <test name= "validating apply leave">
+     <classes>
+      <class name="cases.Admin_Leave_Apply"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

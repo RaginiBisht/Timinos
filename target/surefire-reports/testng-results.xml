@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="19" passed="19">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="62490" started-at="2019-07-10T07:03:17Z" finished-at="2019-07-10T07:04:19Z">
+    <groups>
+    </groups>
+    <test name="Validating Home Page" duration-ms="32346" started-at="2019-07-10T07:03:17Z" finished-at="2019-07-10T07:03:49Z">
+      <class name="cases.HomePage">
+        <test-method status="PASS" signature="driverrun()[pri:0, instance:cases.HomePage@1f59a598]" name="driverrun" is-config="true" duration-ms="4001" started-at="2019-07-10T07:03:17Z" finished-at="2019-07-10T07:03:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverrun -->
+        <test-method status="PASS" signature="BaseNavigation()[pri:0, instance:cases.HomePage@1f59a598]" name="BaseNavigation" duration-ms="5946" started-at="2019-07-10T07:03:21Z" finished-at="2019-07-10T07:03:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BaseNavigation -->
+        <test-method status="PASS" signature="EMSButton()[pri:0, instance:cases.HomePage@1f59a598]" name="EMSButton" duration-ms="1586" started-at="2019-07-10T07:03:27Z" finished-at="2019-07-10T07:03:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EMSButton -->
+        <test-method status="PASS" signature="Facebook()[pri:0, instance:cases.HomePage@1f59a598]" name="Facebook" duration-ms="948" started-at="2019-07-10T07:03:28Z" finished-at="2019-07-10T07:03:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Facebook -->
+        <test-method status="PASS" signature="NavbarHome()[pri:0, instance:cases.HomePage@1f59a598]" name="NavbarHome" duration-ms="6698" started-at="2019-07-10T07:03:29Z" finished-at="2019-07-10T07:03:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavbarHome -->
+        <test-method status="PASS" signature="NavbarPricing()[pri:0, instance:cases.HomePage@1f59a598]" name="NavbarPricing" duration-ms="1971" started-at="2019-07-10T07:03:36Z" finished-at="2019-07-10T07:03:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavbarPricing -->
+        <test-method status="PASS" signature="NavbarReqDemo()[pri:0, instance:cases.HomePage@1f59a598]" name="NavbarReqDemo" duration-ms="1890" started-at="2019-07-10T07:03:38Z" finished-at="2019-07-10T07:03:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavbarReqDemo -->
+        <test-method status="PASS" signature="NavbarWhyUs()[pri:0, instance:cases.HomePage@1f59a598]" name="NavbarWhyUs" duration-ms="1906" started-at="2019-07-10T07:03:40Z" finished-at="2019-07-10T07:03:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavbarWhyUs -->
+        <test-method status="PASS" signature="RegistrationGetEMS()[pri:0, instance:cases.HomePage@1f59a598]" name="RegistrationGetEMS" duration-ms="1694" started-at="2019-07-10T07:03:42Z" finished-at="2019-07-10T07:03:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegistrationGetEMS -->
+        <test-method status="PASS" signature="Twitter()[pri:0, instance:cases.HomePage@1f59a598]" name="Twitter" duration-ms="884" started-at="2019-07-10T07:03:44Z" finished-at="2019-07-10T07:03:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Twitter -->
+        <test-method status="PASS" signature="loginlink()[pri:0, instance:cases.HomePage@1f59a598]" name="loginlink" duration-ms="4647" started-at="2019-07-10T07:03:44Z" finished-at="2019-07-10T07:03:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginlink -->
+        <test-method status="PASS" signature="closingTestcase()[pri:0, instance:cases.HomePage@1f59a598]" name="closingTestcase" is-config="true" duration-ms="105" started-at="2019-07-10T07:03:49Z" finished-at="2019-07-10T07:03:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closingTestcase -->
+      </class> <!-- cases.HomePage -->
+    </test> <!-- Validating Home Page -->
+    <test name="Validating Login Page" duration-ms="12870" started-at="2019-07-10T07:03:50Z" finished-at="2019-07-10T07:04:03Z">
+      <class name="cases.LoginPage">
+        <test-method status="PASS" signature="driverrun()[pri:0, instance:cases.LoginPage@5f8edcc5]" name="driverrun" is-config="true" duration-ms="2191" started-at="2019-07-10T07:03:50Z" finished-at="2019-07-10T07:03:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverrun -->
+        <test-method status="PASS" signature="BaseNavigation()[pri:0, instance:cases.LoginPage@5f8edcc5]" name="BaseNavigation" duration-ms="6184" started-at="2019-07-10T07:03:52Z" finished-at="2019-07-10T07:03:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BaseNavigation -->
+        <test-method status="PASS" signature="Emailtextblock(java.lang.String, java.lang.String)[pri:0, instance:cases.LoginPage@5f8edcc5]" name="Emailtextblock" duration-ms="1325" started-at="2019-07-10T07:03:58Z" data-provider="getdata" finished-at="2019-07-10T07:04:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hdhahjf@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[5435435]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Emailtextblock -->
+        <test-method status="PASS" signature="Emailtextblock(java.lang.String, java.lang.String)[pri:0, instance:cases.LoginPage@5f8edcc5]" name="Emailtextblock" duration-ms="1277" started-at="2019-07-10T07:04:00Z" data-provider="getdata" finished-at="2019-07-10T07:04:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[djhbdjz@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sdbjlkd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Emailtextblock -->
+        <test-method status="PASS" signature="NeedAccount()[pri:0, instance:cases.LoginPage@5f8edcc5]" name="NeedAccount" duration-ms="943" started-at="2019-07-10T07:04:01Z" finished-at="2019-07-10T07:04:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NeedAccount -->
+        <test-method status="PASS" signature="forgetpassword()[pri:0, instance:cases.LoginPage@5f8edcc5]" name="forgetpassword" duration-ms="685" started-at="2019-07-10T07:04:02Z" finished-at="2019-07-10T07:04:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgetpassword -->
+        <test-method status="PASS" signature="title()[pri:0, instance:cases.LoginPage@5f8edcc5]" name="title" duration-ms="74" started-at="2019-07-10T07:04:03Z" finished-at="2019-07-10T07:04:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- title -->
+        <test-method status="PASS" signature="closingTestcase()[pri:0, instance:cases.LoginPage@5f8edcc5]" name="closingTestcase" is-config="true" duration-ms="169" started-at="2019-07-10T07:04:03Z" finished-at="2019-07-10T07:04:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closingTestcase -->
+      </class> <!-- cases.LoginPage -->
+    </test> <!-- Validating Login Page -->
+    <test name="Validating Employee" duration-ms="16179" started-at="2019-07-10T07:04:03Z" finished-at="2019-07-10T07:04:19Z">
+      <class name="cases.AdminEmployee">
+        <test-method status="PASS" signature="driverrun()[pri:0, instance:cases.AdminEmployee@6e509ffa]" name="driverrun" is-config="true" duration-ms="2554" started-at="2019-07-10T07:04:03Z" finished-at="2019-07-10T07:04:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverrun -->
+        <test-method status="PASS" signature="BaseNavigation()[pri:0, instance:cases.AdminEmployee@6e509ffa]" name="BaseNavigation" duration-ms="5852" started-at="2019-07-10T07:04:06Z" finished-at="2019-07-10T07:04:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BaseNavigation -->
+        <test-method status="PASS" signature="Emailtextblock(java.lang.String, java.lang.String)[pri:0, instance:cases.AdminEmployee@6e509ffa]" name="Emailtextblock" duration-ms="4076" started-at="2019-07-10T07:04:12Z" data-provider="getdata" finished-at="2019-07-10T07:04:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2211ragini@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Emailtextblock -->
+        <test-method status="PASS" signature="employee()[pri:0, instance:cases.AdminEmployee@6e509ffa]" name="employee" duration-ms="1361" started-at="2019-07-10T07:04:16Z" finished-at="2019-07-10T07:04:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- employee -->
+        <test-method status="PASS" signature="closingTestcase()[pri:0, instance:cases.AdminEmployee@6e509ffa]" name="closingTestcase" is-config="true" duration-ms="2329" started-at="2019-07-10T07:04:17Z" finished-at="2019-07-10T07:04:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closingTestcase -->
+      </class> <!-- cases.AdminEmployee -->
+    </test> <!-- Validating Employee -->
+  </suite> <!-- Suite -->
+</testng-results>

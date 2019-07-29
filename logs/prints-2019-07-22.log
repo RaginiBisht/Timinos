@@ -1,0 +1,15 @@
+18:40:58.194 [main] INFO  resouces.base - login title is correct
+17:28:34.837 [main] INFO  resouces.base - Home page testing
+17:28:34.884 [main] INFO  resouces.base - browser is initialized
+17:28:42.953 [main] INFO  resouces.base - login page is connecting
+17:28:44.604 [main] INFO  resouces.base - EMS buttons are working
+17:28:52.117 [main] INFO  resouces.base - home button is working
+17:28:53.957 [main] INFO  resouces.base - Pricing button is working
+17:28:55.621 [main] INFO  resouces.base - request demo
+17:28:57.460 [main] INFO  resouces.base - Why us button is working
+17:28:59.201 [main] INFO  resouces.base - Registration Page is opening
+17:29:05.513 [main] INFO  resouces.base - login link is working
+17:29:08.024 [main] INFO  resouces.base - This is Login page testing
+17:29:08.024 [main] INFO  resouces.base - driver installed successfully
+17:29:15.737 [main] INFO  resouces.base - Home login button is working
+17:29:17.274 [main] INFO  resouces.base - Username, password and login button are working

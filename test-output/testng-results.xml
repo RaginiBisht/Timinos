@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18309" started-at="2019-07-23T09:49:43Z" finished-at="2019-07-23T09:50:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18309" started-at="2019-07-23T09:49:43Z" finished-at="2019-07-23T09:50:01Z">
+      <class name="cases.Admin_Leave_Apply">
+        <test-method status="PASS" signature="driverrun()[pri:0, instance:cases.Admin_Leave_Apply@6093dd95]" name="driverrun" is-config="true" duration-ms="3765" started-at="2019-07-23T09:49:43Z" finished-at="2019-07-23T09:49:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverrun -->
+        <test-method status="PASS" signature="BaseNavigation()[pri:0, instance:cases.Admin_Leave_Apply@6093dd95]" name="BaseNavigation" duration-ms="5623" started-at="2019-07-23T09:49:46Z" finished-at="2019-07-23T09:49:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BaseNavigation -->
+        <test-method status="PASS" signature="Emailtextblock(java.lang.String, java.lang.String)[pri:0, instance:cases.Admin_Leave_Apply@6093dd95]" name="Emailtextblock" duration-ms="3806" started-at="2019-07-23T09:49:52Z" data-provider="getdata" finished-at="2019-07-23T09:49:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2211ragini@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Emailtextblock -->
+        <test-method status="PASS" signature="leaveApply()[pri:0, instance:cases.Admin_Leave_Apply@6093dd95]" name="leaveApply" duration-ms="4950" started-at="2019-07-23T09:49:56Z" finished-at="2019-07-23T09:50:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- leaveApply -->
+        <test-method status="PASS" signature="closingTestcase()[pri:0, instance:cases.Admin_Leave_Apply@6093dd95]" name="closingTestcase" is-config="true" duration-ms="127" started-at="2019-07-23T09:50:01Z" finished-at="2019-07-23T09:50:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closingTestcase -->
+      </class> <!-- cases.Admin_Leave_Apply -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

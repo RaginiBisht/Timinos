@@ -1,0 +1,14 @@
+12:21:38.784 [main] INFO  resouces.base - succesfully open the login page
+12:21:43.124 [main] INFO  resouces.base - Admin succesfully logged in
+12:21:43.306 [main] INFO  resouces.base - successfully clicked on employee
+12:21:46.320 [main] INFO  resouces.base - successfully open add employee page
+12:26:16.550 [main] INFO  resouces.base - Admin Employee Page Testing
+12:26:16.590 [main] INFO  resouces.base - Browser initialized successfully
+12:26:22.318 [main] INFO  resouces.base - succesfully open the login page
+12:26:25.745 [main] INFO  resouces.base - Admin succesfully logged in
+12:26:25.865 [main] INFO  resouces.base - successfully clicked on employee
+12:26:28.836 [main] INFO  resouces.base - successfully open add employee page
+12:31:34.598 [main] INFO  resouces.base - Admin Employee Page Testing
+12:31:34.604 [main] INFO  resouces.base - Browser initialized successfully
+12:31:40.232 [main] INFO  resouces.base - succesfully open the login page
+12:31:43.819 [main] INFO  resouces.base - Admin succesfully logged in

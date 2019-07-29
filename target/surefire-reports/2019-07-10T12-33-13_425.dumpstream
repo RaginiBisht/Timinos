@@ -1,0 +1,4 @@
+# Created at 2019-07-10T12:33:14.519
+Boot Manifest-JAR contains absolute paths in classpath 'D:\maven files\Timinos1\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+

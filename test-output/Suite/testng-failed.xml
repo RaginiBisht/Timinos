@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="validating Employee list(failed)">
+    <classes>
+      <class name="cases.Employee_List">
+        <methods>
+          <include name="closingTest"/>
+          <include name="driverrun"/>
+          <include name="employee" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- cases.Employee_List -->
+    </classes>
+  </test> <!-- validating Employee list(failed) -->
+</suite> <!-- Failed suite [Suite] -->

@@ -1,0 +1,14 @@
+12:34:34.209 [main] INFO  resouce.base - driver installed successfully
+12:34:39.889 [main] INFO  resouce.base - Home login button is working
+12:34:41.088 [main] INFO  resouce.base - Username, password and login button are working
+12:34:42.729 [main] INFO  resouce.base - Username, password and login button are working
+12:34:45.760 [main] INFO  resouce.base - Need Account link is working
+12:34:46.521 [main] INFO  resouce.base - forget password link is working
+12:34:46.594 [main] INFO  resouce.base - login title is correct
+12:34:48.988 [main] INFO  resouce.base - Admin Employee Page Testing
+12:34:48.989 [main] INFO  resouce.base - Browser initialized successfully
+12:34:54.483 [main] INFO  resouce.base - succesfully open the login page
+12:34:58.309 [main] INFO  resouce.base - Admin succesfully logged in
+12:34:58.428 [main] INFO  resouce.base - successfully clicked on employee
+12:35:01.399 [main] INFO  resouce.base - successfully open add employee page
+12:35:24.119 [main] INFO  resouce.base - Admin Employee Page Testing
